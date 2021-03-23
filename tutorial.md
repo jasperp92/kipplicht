@@ -35,7 +35,7 @@ input.onGesture(Gesture.LogoDown, function () {
 ## Step 4
 
 Super! Dein Kipplicht ist fertig. Du kannst gerne die Farben oder auch die Lageposition der Eingabe nach deinem Belieben ändern.
-
+Klicke auf ``|Herunterladen|``, um dein Programm auf deinen Calliope mini zu übertragen!
 ```template
 input.onGesture(Gesture.LogoUp, function () {
 })
